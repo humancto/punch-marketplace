@@ -1,0 +1,10 @@
+{
+  "name": "punch-index",
+  "version": 1,
+  "description": "Official Punch skill registry",
+  "url": "https://github.com/humancto/punch-index",
+  "api_url": null,
+  "max_skill_size_bytes": 102400,
+  "signing_required": true,
+  "scan_required": true
+}

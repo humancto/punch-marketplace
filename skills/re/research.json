@@ -1,0 +1,13 @@
+{
+  "name": "research",
+  "versions": ["1.0.0"],
+  "latest": "1.0.0",
+  "description": "Web search, fetch, and summarization tools",
+  "author": "humancto",
+  "category": "research",
+  "tags": ["search", "web", "fetch"],
+  "install_count": 0,
+  "rating": 0.0,
+  "report_count": 0,
+  "yanked": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "developer",
+  "versions": ["1.0.0"],
+  "latest": "1.0.0",
+  "description": "GitHub, shell access, and code tools",
+  "author": "humancto",
+  "category": "developer",
+  "tags": ["github", "git", "shell", "code"],
+  "install_count": 0,
+  "rating": 0.0,
+  "report_count": 0,
+  "yanked": false
+}

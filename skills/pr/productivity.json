@@ -1,0 +1,13 @@
+{
+  "name": "productivity",
+  "versions": ["1.0.0"],
+  "latest": "1.0.0",
+  "description": "Calendar, email, and task management via LocalMind MCP server",
+  "author": "humancto",
+  "category": "productivity",
+  "tags": ["calendar", "email", "tasks"],
+  "install_count": 0,
+  "rating": 0.0,
+  "report_count": 0,
+  "yanked": false
+}

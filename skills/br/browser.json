@@ -1,0 +1,21 @@
+{
+  "name": "browser",
+  "versions": ["1.0.0"],
+  "latest": "1.0.0",
+  "description": "Browser automation for web navigation, form filling, and data extraction",
+  "author": "humancto",
+  "category": "automation",
+  "tags": [
+    "browser",
+    "web",
+    "scraping",
+    "automation",
+    "playwright",
+    "flights",
+    "search"
+  ],
+  "install_count": 0,
+  "rating": 0.0,
+  "report_count": 0,
+  "yanked": false
+}
